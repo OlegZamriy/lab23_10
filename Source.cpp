@@ -19,7 +19,7 @@ int main()
         std::cout << "Month " << i + 1 << ": " << profits[i] << std::endl;
     }
 
-    std::cout << "Total profit for 6 months: " << totalProfit << std::endl;
+    std::cout << "Total profit for 6 months: " << totalProfit << std::endl; 
 
     return 0;
 }
